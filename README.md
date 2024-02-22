@@ -5,12 +5,11 @@ para simular o consumo de uma API pelo Front End.
 
 ## Prints de Funcionamento
 
-<img src='https://github.com/YannTorres/DT-Money/assets/83319465/0ceb2e99-a1be-4469-8281-a0337e4aa243' width='200'/>
-![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/0ceb2e99-a1be-4469-8281-a0337e4aa243)
-![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/537c85b6-0b92-483f-8d46-b17ad5726a1e)
-![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/f402f751-7d35-4205-ac1f-e29506603278)
-![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/cbb48964-e36f-4b62-98ea-c3b2076c8db9)
-
+<img src='https://github.com/YannTorres/DT-Money/assets/83319465/0ceb2e99-a1be-4469-8281-a0337e4aa243' width='500' />
+<img src='https://github.com/YannTorres/DT-Money/assets/83319465/2e15fc1e-47c6-458b-a05d-53cb8ec2043c' width='500' />
+<hr />
+<img src='https://github.com/YannTorres/DT-Money/assets/83319465/b9b069d6-aee1-471e-8241-3552edd474fe' width='500' />
+<img src='https://github.com/YannTorres/DT-Money/assets/83319465/edd4fb89-9d4d-4f01-ae6b-a1fcae746a7d' width='500' />
 
 ## Como Rodar a Aplicação
 
