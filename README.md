@@ -5,6 +5,7 @@ para simular o consumo de uma API pelo Front End.
 
 ## Prints de Funcionamento
 
+<img src='https://github.com/YannTorres/DT-Money/assets/83319465/0ceb2e99-a1be-4469-8281-a0337e4aa243' width='200'/>
 ![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/0ceb2e99-a1be-4469-8281-a0337e4aa243)
 ![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/537c85b6-0b92-483f-8d46-b17ad5726a1e)
 ![Captura de tela 2024-02-22 161110](https://github.com/YannTorres/DT-Money/assets/83319465/f402f751-7d35-4205-ac1f-e29506603278)
