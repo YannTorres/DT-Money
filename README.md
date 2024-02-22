@@ -16,5 +16,5 @@ $ git clone https://github.com/YannTorres/DT-Money
 $ npm i
 
 ### Rode o programa e o json-server
-$ npm run dev
+$ npm run dev /n
 $ npx json-server server.json -w
